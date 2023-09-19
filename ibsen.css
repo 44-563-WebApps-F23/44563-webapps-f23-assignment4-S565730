@@ -43,18 +43,18 @@
   text-shadow:6px 7px 5px burlywoodg;
     border:solid 2px blueviolet
 }
-.navigator{
+.navbar{
   text-align: center;
   background-color:rgb(240,225,220);
   padding: 10px;
 }
-.navigator a{
+.navbar a{
   color:blueviolet;
   text-decoration: underline;
   display: block;
   padding: 5px;
 }
-.navigator a:hover{
+.navbar a:hover{
   background-color: rgb(218,204,186);
   color:rgb(180,63,63);
 }
