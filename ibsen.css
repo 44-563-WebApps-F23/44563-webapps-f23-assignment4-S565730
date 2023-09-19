@@ -1,18 +1,43 @@
-h6 {
-    color: black;
+.MISS_TESMAN {
+    color: red;
     font-size: 100%;
     font-family: Courier;
 }
-p {
+.BERTA {
+  color: green;
+  font-size: 100%;
+  font-family: Courier;
+}
+.speech{
     color:black;
     font-size: 80%;
     font-family: verdana;
 }
-p1 {
+.direction {
     background-color: lightblue;
   }
-p1:hover{
+.direction:hover{
     background-color: blue;
 }
-.MISSTESMAN{color:red;}
-.BERTA{color:green;}
+.speech_MISS_TESMAN{color:orange;}
+.speech_BERTA{color:hotpink;}
+/* Style for the table */
+.table,th,td {
+    
+    border: 1px solid #ddd;
+    color:brown;
+    border-color: blue;
+    margin:0px;
+    padding:0px;
+    /*margin-bottom: 20px;*/
+    text-align: left;
+  }
+  .tr:nth-child(odd) {
+    background-color: rgb(21,219,203); /* Row stripes for odd rows */
+  }
+  .MISS_TESMAN1 {
+    color: red;
+    font-size: 100%;
+    font-family: Courier;
+  }
+  
