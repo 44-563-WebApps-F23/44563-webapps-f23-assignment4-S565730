@@ -28,7 +28,7 @@
     color:brown;
     border-color: blue;
     margin:0px;
-    padding:0px;
+    padding:10px;
     /*margin-bottom: 20px;*/
     text-align: left;
   }
@@ -36,11 +36,11 @@
     background-color: rgb(21,219,203); /* Row stripes for odd rows */
   }
   .MISS_TESMAN:hover{
-    text-shadow:6px 7px 5px burlywoodg;
+    text-shadow:6px 7px 5px rgb(180,63,63);
     border:solid 2px blueviolet
   }
 .BERTA:hover{
-  text-shadow:6px 7px 5px burlywoodg;
+  text-shadow:6px 7px 5px rgb(180,63,63);
     border:solid 2px blueviolet
 }
 .navbar{
